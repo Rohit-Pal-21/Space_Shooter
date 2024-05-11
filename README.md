@@ -2,7 +2,7 @@
 
 **Space Shooter** is an alien shooting game created using <a href="https://www.python.org/">python</a> and <a href="https://www.pygame.org/news">pygame</a>.
 
-This was my first project after learning Python, and it helped me a lot to explore and expand my knowledge on programming skills.
+This was my first project after learning pygame, and it helped me a lot to explore and expand my knowledge on programming skills.
 
 ## Instructions
 
